@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
   -  Artificial Intelligence training
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motezuki/)
