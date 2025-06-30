@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=motezuki&theme=light&rank=-?,-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **motezuki/motezuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :books: I worked with
+✨ Engineer  
+✨ Developer  
+✨ Scientist  
+🎓 Doctor in engineering - Computational Fluid Dinamics  
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motezuki/)
+
+## :books: I worked with
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) 
@@ -43,6 +47,13 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?logo=codecov&logoColor=white)
 
-- 🔭 I’m currently working on:
-  -  Artificial Intelligence training
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motezuki/)
+## 🔭 I’m currently working on:
+  🧑🏻‍💻 Freelance prompt engineer
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=motezuki&theme=transparent&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## 🚀 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motezuki&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
