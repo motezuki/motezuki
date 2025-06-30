@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 🎓 Doctor in engineering - Computational Fluid Dinamics  
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motezuki/)
 
+## 🔭 I’m currently Interested on:
+  🧑🏻‍💻 Artificial Intelligence  
+  🧑🏻‍💻 Data Science  
+
 ## :books: I worked with
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
@@ -47,14 +51,11 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?logo=codecov&logoColor=white)
 
-## 🔭 I’m currently working on:
-  🧑🏻‍💻 Freelance prompt engineer
-
 ## 📊 GitHub Stats
 <a href="">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=motezuki&theme=transparent&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=motezuki&theme=transparent&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </a>
 <a href="">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motezuki&layout=compact&theme=transparent&title_color=E94D5F&text_color=FFF" />  
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motezuki&layout=compact&theme=transparent&title_color=E94D5F&text_color=FFF" />  
 </a>  
 
