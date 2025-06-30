@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motezuki&theme=transparent&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=motezuki&theme=transparent&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motezuki&layout=compact&theme=transparent&title_color=E94D5F&text_color=FFF" />  
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motezuki&layout=compact&theme=transparent&title_color=E94D5F&text_color=FFF" />  
 </a>  
 
