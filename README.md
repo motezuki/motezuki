@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   🧑🏻‍💻 Artificial Intelligence  
   🧑🏻‍💻 Data Science  
 
-## :books: I worked with
+## :books: I have knowledge in
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) 
@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
