@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Fabio Motezuki
 
 <!--
 **motezuki/motezuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,40 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ Engineer  
-✨ Developer  
-✨ Scientist  
-🎓 Doctor in engineering - Computational Fluid Dinamics  
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motezuki/)
+Engineer turned Data Scientist, passionate about simulation, data analysis, and machine learning. With a PhD in Sciences from Escola Politécnica at USP and years of experience in computational modeling, I'm now focused on applying data science to solve real-world problems.
 
-## 🔭 I’m currently Interested on:
-  🧑🏻‍💻 Artificial Intelligence  
-  🧑🏻‍💻 Data Science  
+## 🧠 Areas of Interest
+- Machine Learning & Deep Learning
+- Data Visualization
+- Prompt Engineering
+- Numerical Modeling & Simulation
+- Generative AI
 
-## :books: I have knowledge in
+## 🔧 Technologies & Tools
+Python • C/C++ • SQL • TensorFlow • Keras • Scikit-learn • Pandas • Docker • Git • ParaView • OpenMP • Intel MKL
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+## 📂 Featured Projects
+- [DataScienceCertificate](https://github.com/motezuki/DataScienceCertificate): IBM Data Science specialization projects
+- [Applied-Data-Science-Capstone](https://github.com/motezuki/Applied-Data-Science-Capstone): Capstone project focused on location data and clustering
+- [notebooks](https://github.com/motezuki/notebooks): A collection of Jupyter notebooks for experiments and learning
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)
+## 🎓 Certifications
+- IBM Data Science Specialization
+- Deep Learning with TensorFlow & Keras
+- SQL for Data Science
+- Generative AI for Executives
 
+## 🌱 Currently Learning
+- Advanced Prompt Engineering
+- LLM fine-tuning and evaluation
+- Docker & Kubernetes for scalable ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?logo=githubactions&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?logo=codecov&logoColor=white)
+## 📫 Let's connect!
+- LinkedIn: [linkedin.com/in/motezuki](https://www.linkedin.com/in/motezuki)
+- GitHub: [github.com/motezuki](https://github.com/motezuki)
 
 ## 📊 GitHub Stats
 <a href="">
