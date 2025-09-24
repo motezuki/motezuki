@@ -30,7 +30,7 @@ Python • C/C++ • SQL • TensorFlow • Keras • Scikit-learn • Pandas �
 ## 📂 Featured Projects
 - [DataScienceCertificate](https://github.com/motezuki/DataScienceCertificate): IBM Data Science specialization projects
 - [Applied-Data-Science-Capstone](https://github.com/motezuki/Applied-Data-Science-Capstone): Capstone project focused on location data and clustering
-- [Jupyter Notebooks](https://drive.google.com/drive/folders/1NWAXTZq11U9RnvGuweEjJNvi2LAstGkA?usp=sharing): A collection of Jupyter notebooks for data science experiments and learning
+- [Machine Learning Notebooks](https://drive.google.com/drive/folders/1NWAXTZq11U9RnvGuweEjJNvi2LAstGkA?usp=sharing): A collection of Jupyter notebooks for Machine Learning experiments
 - [Econometrics series](https://sypntw9w6i.execute-api.sa-east-1.amazonaws.com/Prod/): A plotly dashboard application for economy indicators, it consults a government API to retrieve the relevant data, runs flask in Amazon lambda.
 - [Website Genoma3D](https://genoma3d.com.br): Deploy wordpress on AWS EC2 with MariaDB on Amazon RDS
 
