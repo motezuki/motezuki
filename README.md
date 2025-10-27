@@ -25,7 +25,10 @@ Engineer turned Data Scientist, passionate about simulation, data analysis, and 
 - Generative AI
 
 ## 🔧 Technologies & Tools
-Python • C/C++ • SQL • TensorFlow • Keras • Scikit-learn • Pandas • Docker • Git • ParaView • OpenMP • Intel MKL
+Python • C/C++ • SQL • TensorFlow • Keras • Scikit-learn • Pandas • Docker • Git • ParaView • OpenMP • Intel MKL 
+
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=motezuki&layout=donut&theme=transparent&title_color=E94D5F&text_color=FFF)]()
 
 ## 📂 Featured Projects
 - [DataScienceCertificate](https://github.com/motezuki/DataScienceCertificate): IBM Data Science specialization projects
@@ -54,7 +57,3 @@ Python • C/C++ • SQL • TensorFlow • Keras • Scikit-learn • Pandas �
 <a href="">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=motezuki&theme=transparent&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </a>
-<a href="">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motezuki&layout=compact&theme=transparent&title_color=E94D5F&text_color=FFF" />  
-</a>  
-
